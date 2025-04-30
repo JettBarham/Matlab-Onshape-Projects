@@ -1,8 +1,8 @@
 % NOTE ALL PROGRAMS START WITH A HEADER COMMENT.  
-% This program is to do a MATLAB script version of playing a board game.
+% This program is a MATLAB script version of playing a board game.
 % This code was written starting April 27, 2025 by Jett Barham and Harry Carleton Paget
 % using a base of code written by Dr. Julie Whitney and edited by Dr. Danny Francis 
-% during Fall 2024 Semester.
+% during the University of Kentucky Fall 2024 Semester.
 clc;
 clear;
 clear s
